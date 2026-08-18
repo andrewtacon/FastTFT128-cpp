@@ -1,0 +1,8 @@
+FastTFT128.api.init()
+FastTFT128.api.clear(0)
+FastTFT128.api.fillRect(10, 10, 40, 40, 63488)
+FastTFT128.api.fillRect(70, 10, 40, 40, 2016)
+FastTFT128.api.createFramebuffer()
+FastTFT128.api.clearFramebuffer(0)
+FastTFT128.api.fillFramebufferRect(30, 70, 68, 30, 65504)
+FastTFT128.api.show()
