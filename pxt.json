@@ -1,6 +1,6 @@
 {
   "name": "pxt-fast-tft128-cpp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Native C++ high-speed 128x128 ST7735 TFT extension for micro:bit",
   "license": "MIT",
   "dependencies": {
@@ -8,7 +8,7 @@
   },
   "files": [
     "fasttft128.cpp",
-    "sim.ts",
+    "main.ts",
     "test.ts"
   ],
   "testFiles": ["test.ts"]
