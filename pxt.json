@@ -8,7 +8,7 @@
   },
   "files": [
     "fasttft128.cpp",
-    "main.ts",
+    "sim.ts",
     "test.ts"
   ],
   "testFiles": ["test.ts"]
